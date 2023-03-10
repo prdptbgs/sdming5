@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.AssemblyInfo.cs
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/sdming5/eval2/bin/Debug/net7.0/eval2
+/Users/macbook/Desktop/sdming5/eval2/bin/Debug/net7.0/eval2.deps.json
+/Users/macbook/Desktop/sdming5/eval2/bin/Debug/net7.0/eval2.runtimeconfig.json
+/Users/macbook/Desktop/sdming5/eval2/bin/Debug/net7.0/eval2.dll
+/Users/macbook/Desktop/sdming5/eval2/bin/Debug/net7.0/eval2.pdb
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.dll
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/refint/eval2.dll
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.pdb
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/eval2.genruntimeconfig.cache
+/Users/macbook/Desktop/sdming5/eval2/obj/Debug/net7.0/ref/eval2.dll
